@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Bungee+Spice&family=Edu+SA+Hand:wght@400..700&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jaro:opsz@6..72&family=Manrope:wght@200..800&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+NZ+Basic:wght@100..400&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container, .container2 {
+    height: 60vh;
+    width: 500px;
+    font-family: "Inter", sans-serif;
+}
+
+.container2 {
+    margin-top: -30px;
+}
+
+.container h3, .container2 h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 25px;
+    font-size: 34px;
+}
+
+.container label, .container2 label {
+    padding: 5px;
+    font-size: 15px;
+    margin-left: 25px;
+}
+
+.container input, .container2 input {
+    width: 400px;
+    height: 45px;
+    padding-left: 10px;
+    border: none;
+    margin-left: 50px;
+    margin-top: 5px;
+    border-radius: 5px;
+    outline: solid 2px rgba(0, 0, 0, 0.178);
+    transition: all ease-in-out 0.15s;
+    margin-bottom: 10px;
+}
+
+.container input:focus {
+    outline-color: #0077B6;
+}
+
+.container button, .container2 button {
+    width: 400px;
+    height: 40px;
+    background-color: #025113;
+    border-radius: 5px;
+    margin-left: 50px;
+    border: none;
+    margin-top: 25px;
+    color: #ffff;
+    font-size: 18px;
+    
+}
+
+.container button a, .container2 button a {
+    text-decoration: none;
+    color: #ffff; 
+    width: 400px;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container p, .container2 p {
+    margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.container p a, .container2 p a{
+    color: #025113;
+    text-decoration: none;
+}
+
+.alert-box {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 12px 20px;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    z-index: 9999;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.alert-box.show {
+    opacity: 1;
+}
+
+.alert-box.error {
+    background-color: #e53935;
+}
+
+.alert-box.success {
+    background-color: #43a047;
+}
+
+.hidden {
+    display: none;
+}

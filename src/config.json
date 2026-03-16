@@ -1,0 +1,136 @@
+[
+    {
+        "title" : "Castle in the sky",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Castle_in_the_sky.jpg",
+        "about" : "It follows Sheeta and Pazu, two children who discover a mysterious crystal connected to a long-lost floating island called Laputa. As they’re chased by pirates and the military, they work together to uncover the truth behind the ancient city. The film is full of adventure, wonder, and heart."   
+    },
+
+    {
+        "title" : "Only Yesterday",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Only_Yesterday.jpg",
+        "about" : "It follows Taeko, a 27-year-old woman who travels from the city to the countryside and begins reflecting on her childhood memories. Through these moments, she reconnects with her younger self and starts to understand what she truly wants in life. The film is gentle, emotional, and beautifully captures the feeling of growing up and finding your path."
+    },
+    
+    {
+        "title" : "Ocean Waves",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Ocean_Wave.jpg",
+        "about" : "It’s a quiet coming-of-age story about two high school friends whose lives change when a new girl, Rikako, transfers to their school. As emotions, misunderstandings, and memories mix together, the film gently explores youth, friendship, and the complicated feelings of growing up."
+    },
+
+    {
+        "title" : "Kiki's Delivery Service",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/KiKis_Delivery_Service.jpg",
+        "about" : "It tells the story of Kiki, a young witch who leaves home to train for a year in a new town. With her broom and her cat Jiji, she starts a small delivery service and learns about independence, confidence, and finding her place in the world. It’s a warm, uplifting film full of charm and gentle adventure."
+    },
+
+    {
+        "title" : "Ponyo",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Ponyo.jpg",
+        "about" : "It’s a magical story about Ponyo, a goldfish who dreams of becoming human, and a young boy named Sosuke who befriends her. As Ponyo’s powers create chaos in the natural world, the two children embark on a gentle adventure filled with wonder, love, and the beauty of the ocean."
+    },
+
+    {
+        "title" : "Spirited Away",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Spirited_Away.jpg",
+        "about" : "It follows Chihiro, a young girl who becomes trapped in a mysterious spirit world after her parents are transformed into pigs. To save them and return home, she must work in a magical bathhouse and face challenges that test her courage. The film is enchanting, emotional, and full of unforgettable fantasy."
+    },
+
+    {
+        "title" : "My Neighbor Totoro",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/My_Neighbor_Totoro.jpg",
+        "about" : "It tells the gentle story of two sisters, Satsuki and Mei, who move to the countryside and discover friendly forest spirits, including the magical Totoro. As they explore their new home, the film captures childhood wonder, imagination, and the comforting magic of nature."
+    },
+
+    {
+        "title" : "The Boy and the Heron",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/The_Boy_And_The_Heron.jpg",
+        "about" : "It follows Mahito, a young boy grieving the loss of his mother, who is drawn into a mysterious world by a strange talking heron. As he explores this surreal realm, he confronts loss, healing, and the complex emotions of growing up. The film is dreamlike, emotional, and filled with powerful imagery."
+    },
+
+    {
+        "title" : "Tale of the Princess Kaguya",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Tale_of_the_Princess_Kaguya.jpg",
+        "about" : "A mysterious girl is discovered inside a bamboo stalk and raised by a humble bamboo cutter and his wife. She grows into a radiant young woman but struggles with the constraints of her earthly life, ultimately revealing her celestial origins. The story is a poignant reflection on life, beauty, and impermanence."
+    },
+
+    {
+        "title" : "The Wind Rises",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/The_Wind_Rises.jpg",
+        "about" : "This film tells the story of Jiro, a passionate aeronautical engineer who dreams of designing beautiful airplanes. Set against the backdrop of pre-World War II Japan, it follows his journey of creativity, ambition, and love, while exploring the tension between innovation and the harsh realities of history."
+    },
+
+    {
+        "title" : "A Whisker Away",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/A_Whisker_Away.jpg",
+        "about" : "This film follows Miyo, a shy girl who transforms into a cat to get closer to the boy she likes. As she navigates life in her feline form, she discovers hidden truths about love, identity, and the importance of facing one’s true feelings before it’s too late."
+    },
+
+    {
+        "title" : "Drifting Home",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Drifting_Home.jpg",
+        "about" : "This film follows a group of children who get stranded in a mysterious, floating apartment complex after a sudden storm. As they navigate this surreal world, they confront fears, memories, and the bonds of friendship, learning the value of courage and togetherness in the face of the unknown."
+    },
+
+    {
+        "title" : "Mary and the Witch's Flower",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Mary_and_the_Witch_Flower.jpg",
+        "about" : "It follows Mary, a young girl who discovers a magical flower that gives her temporary witch powers. When she visits a mysterious school for witches, she learns that the magic comes with danger and responsibility. The film is colorful, adventurous, and full of wonder as Mary finds her courage."
+        
+    },
+
+    {
+        "title" : "Your name",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/Your_Name.jpg",
+        "about" : "It tells the story of Mitsuha and Taki, two teenagers who mysteriously begin swapping bodies. As they try to understand each other’s lives, a deeper connection forms between them. When a hidden danger appears, they race against time to save each other. The film is emotional, romantic, and beautifully crafted."
+    },
+
+    {
+        "title" : "My Weathering with You",
+        "field": "anime",
+        "imgsrc" : "../imgsource/Weathering_with_You.jpg",
+        "about" : "It follows Hodaka, a runaway boy who meets Hina, a girl with the mysterious power to make the sun shine by praying. As they grow closer, they face the consequences of her gift and the difficult choices it brings. The film is emotional, romantic, and filled with beautiful visuals about love, sacrifice, and the weather’s magic."
+    },
+
+    {
+        "title" : "The Cat Returns",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/The_Cat_Return.jpg",
+        "about" : "It tells the story of Haru, a shy girl who saves a cat and is suddenly invited to the magical Cat Kingdom. When the cats try to make her marry their prince, she must find the courage to escape and discover her true self. The film is fun, whimsical, and full of charming fantasy."
+    },
+
+    {
+        "title" : "My Oni Girl",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/My_Oni_Girl.jpg",
+        "about" : "It follows Hiiragi, a shy boy who meets Tsumugi, an energetic oni girl searching for her missing mother. Together they travel between the human and spirit worlds, discovering friendship, bravery, and the importance of being true to yourself. The film is warm, magical, and heartfelt."
+    },
+
+    {
+        "title" : "Bubble",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/bubble.jpg",
+        "about" : "It takes place in a Tokyo where strange bubbles have fallen from the sky, creating areas of floating gravity. Hibiki, a talented but reckless boy, meets a mysterious girl named Uta, who changes his life. As they grow closer, they uncover the secret behind the bubbles. The film is visually stunning, emotional, and full of unique fantasy."
+    },
+
+    {
+        "title" : "The Secret World of Arrietty",
+        "field" : "anime",
+        "imgsrc" : "../imgsource/The_Secret_World_of_Arrietty.jpg",
+        "about" : "It tells the story of Arrietty, a tiny “Borrower” who lives secretly beneath a house with her family. When a human boy named Sho discovers her, their gentle friendship puts her hidden world at risk. The film is quiet, beautiful, and full of warmth, showing the magic of small things and brave hearts."
+    }
+
+]
